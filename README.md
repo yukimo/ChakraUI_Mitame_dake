@@ -1,2 +1,2 @@
-# ChakraUI_Mitame_dake
+# ChakraUI
 Created with CodeSandbox
