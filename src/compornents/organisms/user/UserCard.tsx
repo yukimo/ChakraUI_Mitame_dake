@@ -10,7 +10,7 @@ export const UserCard: VFC<Props> = memo((props) => {
       <Box
         /*  */
         /* flex-Grow="1" */
-        w={{ base: "400px", md: "745px", xl: "870px" }}
+        /* w={{ base: "400px", md: "745px", xl: "870px" }} */
         bg="white"
         borderRadius="10px"
         shadow="md"
