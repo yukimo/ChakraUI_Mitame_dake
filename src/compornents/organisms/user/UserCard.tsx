@@ -34,6 +34,15 @@ export const UserCard: VFC<Props> = memo((props) => {
           <Text fontSize="sm" color="gray">
             {fullName}
           </Text>
+          <Image
+            /* w={{base:"200px", md:"100px"}} */
+            /* h={{ base: "500px", md: "300px" }} */
+            /* boxSize="100%x" */
+            borderRadius="full"
+            src={imageUrl}
+            alt={userName}
+            m="auto"
+          />
         </Stack>
       </Box>
     </Flex>
