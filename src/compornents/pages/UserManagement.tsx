@@ -7,29 +7,29 @@ export const UserManagement: VFC = memo(() => {
       <WrapItem>
         <UserCard
           imageUrl="https://source.unsplash.com/random"
-          userName="うきたん"
-          fullName="もっみー"
+          userName="AAAAAAA"
+          fullName="aaaaaaaaa"
         />
       </WrapItem>
       <WrapItem>
         <UserCard
           imageUrl="https://source.unsplash.com/random"
-          userName="うきたん"
-          fullName="もっみー"
+          userName="BBBBBBB"
+          fullName="bbbbbbb"
         />
       </WrapItem>
       <WrapItem>
         <UserCard
           imageUrl="https://source.unsplash.com/random"
-          userName="うきたん"
-          fullName="もっみー"
+          userName="CCCCCCC"
+          fullName="cccccccc"
         />
       </WrapItem>
       <WrapItem>
         <UserCard
           imageUrl="https://source.unsplash.com/random"
-          userName="うきたん"
-          fullName="もっみー"
+          userName="DDDDDDD"
+          fullName="dddddddd"
         />
       </WrapItem>
     </Wrap>
