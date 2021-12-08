@@ -9,6 +9,7 @@ export const UserManagement: VFC = memo(() => {
           imageUrl="https://drive.google.com/uc?id=1TmMGY06z_YnsBrEMeH1g7OqwuHJgLmY8"
           userName="AAAAAAA"
           fullName="aaaaaaaaa"
+          imageUrl2="https://connpass-tokyo.s3.amazonaws.com/thumbs/4c/d1/4cd19c2c7ae0db829e661daa73a20cc9.png"
         />
       </WrapItem>
       <WrapItem>
